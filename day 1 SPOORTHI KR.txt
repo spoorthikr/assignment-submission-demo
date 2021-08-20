@@ -1,0 +1,18 @@
+1.No, WordPress is not copyright free. It is licensed in a way that allows everyone to use it, but each contribution made to the software is copyrighted.
+  It is released under GPL, so you are free to use, modify, and redistribute the code.
+
+2. Add an image to a blog post
+   Sign in to Blogger.
+   In the top left, select a blog.
+   Click the post you want to edit or create a new post.
+   At the top, click Insert image .
+   Choose from where you want to upload the image.
+   Select one or more images and click Insert.
+
+3.under general settings inhome page
+
+4.By default, a subscriber doesn't have access to the WordPress dashboard. 
+  However, you still have to determine the user role you want to assign to the person filling the form. To do this, go to Form Settings.
+  The Default User Role is Subscriber.
+
+5.can be written in many languages such as hindi,english,kannada,oddi etc
